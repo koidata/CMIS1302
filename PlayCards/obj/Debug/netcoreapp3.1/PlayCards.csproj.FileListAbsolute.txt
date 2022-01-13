@@ -1,0 +1,12 @@
+/Users/shubhang/Projects/PlayCards/PlayCards/bin/Debug/netcoreapp3.1/PlayCards.deps.json
+/Users/shubhang/Projects/PlayCards/PlayCards/bin/Debug/netcoreapp3.1/PlayCards.runtimeconfig.json
+/Users/shubhang/Projects/PlayCards/PlayCards/bin/Debug/netcoreapp3.1/PlayCards.runtimeconfig.dev.json
+/Users/shubhang/Projects/PlayCards/PlayCards/bin/Debug/netcoreapp3.1/PlayCards.dll
+/Users/shubhang/Projects/PlayCards/PlayCards/bin/Debug/netcoreapp3.1/PlayCards.pdb
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.csprojAssemblyReference.cache
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.AssemblyInfoInputs.cache
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.AssemblyInfo.cs
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.csproj.CoreCompileInputs.cache
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.dll
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.pdb
+/Users/shubhang/Projects/PlayCards/PlayCards/obj/Debug/netcoreapp3.1/PlayCards.genruntimeconfig.cache
